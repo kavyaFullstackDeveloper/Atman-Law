@@ -1,0 +1,49 @@
+/* Ensure the container takes full width and no vertical centering */
+.carousel-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Make the images responsive */
+  .carousel-img {
+    height: 90vh !important;  /* Force height */
+    object-fit: cover;        /* Ensure the image covers the area */
+  }
+  
+  @media (max-width: 1200px) {
+    .carousel-img {
+      height: 75vh !important;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-img {
+      height: 60vh !important;
+    }
+  
+    .carousel-caption h3 {
+      font-size: 1.5rem !important;
+    }
+  
+    .carousel-caption p {
+      font-size: 1rem !important;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .carousel-img {
+      height: 50vh !important;
+    }
+  
+    .carousel-caption h3 {
+      font-size: 1.2rem !important;
+    }
+  
+    .carousel-caption p {
+      font-size: 0.9rem !important;
+    }
+  }
+  

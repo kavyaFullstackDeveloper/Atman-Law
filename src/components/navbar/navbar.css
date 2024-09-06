@@ -1,0 +1,27 @@
+/* Custom Navbar Styles */
+.navbar-custom {
+    background-color: transparent !important;
+    z-index: 1;
+    width: 100%;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .navbar-custom .navbar-brand, 
+  .navbar-custom .nav-link {
+    color: white !important;
+  }
+  
+  .navbar-custom .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.5) !important;
+  }
+  
+  /* Change background color on scroll */
+  .navbar-custom.scrolled {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+  }
+  
+  .navbar-custom.scrolled .navbar-brand, 
+  .navbar-custom.scrolled .nav-link {
+    color: black !important;
+  }
+  
