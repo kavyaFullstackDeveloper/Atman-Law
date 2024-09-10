@@ -1,0 +1,559 @@
+{
+    "heroData": {
+      "bgImgLink": "src/assets/hero-bg.jpg",
+      "imgLink": "src/assets/woman.jpg",
+      "title": "Legal <br /> Solutions",
+      "subTitle": "Find your perfect legal care",
+      "designation": "Legal Services here"
+    },
+    "aboutData": {
+    "imgLink": "src/assets/IndianFlag.jpg",
+    "cvPdf": "",
+    "title": "Hi There! we are dedicated lawers",
+    "subtitle": "Attorney at Law",
+    "text": "I am a highly experienced attorney specializing in corporate law, contract law, and legal consultancy. My goal is to provide tailored legal solutions to individuals and businesses, ensuring compliance and protecting their rights.",
+    "details": [
+      {
+        "title": "Foundation",
+        "info": " 1980"
+      },
+      {
+        "title": "Phone",
+        "info": "+1 800-123-4567"
+      },
+      {
+        "title": "Email",
+        "info": "lawers.law@example.com"
+      },
+      {
+        "title": "From",
+        "info": "1234 Law Street, Legal City, LC 54321"
+      },
+      {
+        "title": "Language",
+        "info": "English, Spanish"
+      },
+      {
+        "title": "Availability",
+        "info": "Available for Consultation"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/legal-advice.png",
+        "title": "Legal Consultancy",
+        "text": "Providing expert advice on legal matters ranging from contracts to corporate policies.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/litigation.png",
+        "title": "Litigation",
+        "text": "Representing clients in legal disputes with a focus on achieving favorable outcomes.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/contracts.png",
+        "title": "Contract Drafting",
+        "text": "Drafting and reviewing legal contracts to ensure compliance and protect your interests.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/immigration.png",
+        "title": "Immigration Law",
+        "text": "Offering expert guidance on immigration processes and applications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/intellectual-property.png",
+        "title": "Intellectual Property",
+        "text": "Protecting your intellectual property rights through expert legal services.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/tax-law.png",
+        "title": "Tax Law",
+        "text": "Ensuring compliance with tax laws and offering strategies for tax optimization.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "Our Team",
+    "text": "As a dedicated lawyer, I offer a diverse range of legal expertise.",
+    "skills": [
+      {
+        "title": "",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Immigration Law",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Tax Law",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Intellectual Property",
+        "progress": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  }
+  ,
+    "portfolioData": {
+      "portfolioItems": [
+        {
+          "imgLink": "/images/portfolio/portfolio1.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "200"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio2.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "300"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio3.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "400"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio4.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "500"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio5.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "600"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio6.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "700"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio1.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "200"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio2.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "300"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio3.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "400"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio4.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "500"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio5.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "600"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio6.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "700"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio1.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "200"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio2.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "300"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio3.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "400"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio4.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "500"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio5.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "600"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio6.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "700"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio1.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "200"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio2.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "300"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio3.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "400"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio4.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "500"
+        },
+        {
+          "imgLink": "/images/portfolio/portfolio5.jpg",
+          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+          "title": "Product Design",
+          "subTitle": "Design / Marketing",
+          "effect": "fade-up",
+          "duration": "500",
+          "delay": "600"
+        }
+      ]
+    },
+    "blogData": {
+      "useFor": "blog",
+      "sliderSetting": {
+        "infinite": true,
+        "speed": 500,
+        "slidesToShow": 3,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 2,
+              "autoplay": true
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "informations": [
+        {
+          "imgLink": "/images/blog/blog1.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "latest trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        },
+        {
+          "imgLink": "/images/blog/blog2.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "What are the latest trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        },
+        {
+          "imgLink": "/images/blog/blog3.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "Trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        },
+        {
+          "imgLink": "/images/blog/blog1.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "What are the latest trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        },
+        {
+          "imgLink": "/images/blog/blog2.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "The latest trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        },
+        {
+          "imgLink": "/images/blog/blog3.jpg",
+          "designation": "Admin",
+          "date": "07-03-2023",
+          "title": "What are the latest trends in Graphic design according to you?",
+          "href": "/blog/blog-details"
+        }
+      ]
+    },
+    "reviewData": {
+      "useFor": "review",
+      "sliderSetting": {
+        "infinite": true,
+        "speed": 500,
+        "slidesToShow": 3,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 2,
+              "autoplay": true
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "informations": [
+        {
+          "imgLink": "/images/client/client1.png",
+          "title": "Richard Miles",
+          "designation": "Chairman",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        },
+        {
+          "imgLink": "/images/client/client2.png",
+          "title": "Vesta Shufelt",
+          "designation": "Executive Director",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        },
+        {
+          "imgLink": "/images/client/client3.png",
+          "title": "Joseph Alves",
+          "designation": "Managing Director",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        },
+        {
+          "imgLink": "/images/client/client1.png",
+          "title": "Richard Miles",
+          "designation": "Chairman",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        },
+        {
+          "imgLink": "/images/client/client2.png",
+          "title": "Vesta Shufelt",
+          "designation": "Executive Director",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        },
+        {
+          "imgLink": "/images/client/client3.png",
+          "title": "Joseph Alves",
+          "designation": "Managing Director",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        }
+      ]
+    },
+    "resumeData": {
+      "experienceTitle": "Experience",
+      "experience": [
+        {
+          "title": "Senior UX/UI Designer",
+          "duration": "Jan 2020 - Present",
+          "subTitle": "Bergnaum, Hills and Howe",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        },
+        {
+          "title": "Product Designer",
+          "duration": "Jan 2016 - December 2019",
+          "subTitle": "Langosh, Sipes and Raynor",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        },
+        {
+          "title": "UI/UX Designer",
+          "duration": "Jan 2014 - December 2015",
+          "subTitle": "Strosin, Maggio and Homenick",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        }
+      ],
+     "educationTitle": "Professional Achievements",
+  "education": [
+    {
+      "title": "Bar Admission",
+      "duration": "2015",
+      "subTitle": "State Bar of California",
+      "text": "Successfully passed the California Bar Exam and was admitted to practice law in the state of California."
+    },
+    {
+      "title": "Legal Consultant of the Year",
+      "duration": "2020",
+      "subTitle": "Legal Excellence Awards",
+      "text": "Recognized for outstanding performance in providing legal consulting services in corporate law and compliance."
+    },
+    {
+      "title": "Top 40 Under 40",
+      "duration": "2018",
+      "subTitle": "National Trial Lawyers Association",
+      "text": "Honored as one of the top 40 attorneys under 40 for excellence in litigation and dispute resolution."
+    },
+    {
+      "title": "Certified Mediator",
+      "duration": "2017",
+      "subTitle": "International Mediation Institute",
+      "text": "Completed certification in mediation, focusing on dispute resolution and arbitration for corporate clients."
+    },
+    {
+      "title": "Published Author",
+      "duration": "2021",
+      "subTitle": "Journal of Corporate Law",
+      "text": "Published an article on corporate governance and legal compliance in emerging markets."
+    }
+  ]
+    },
+    "contactData": {
+      "formTitle": "Just say Hello",
+      "title": "Contact Info",
+      "subTitle": "Visite my social profile and get connected",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    },
+    "socialData": [
+      {
+        "icon": "dribbble",
+        "title": "Dribbble",
+        "link": "/"
+      },
+      {
+        "icon": "behance",
+        "title": "Behance",
+        "link": "/"
+      },
+      {
+        "icon": "twitter",
+        "title": "Twitter",
+        "link": "/"
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "link": "/"
+      }
+    ]
+  }
+  
