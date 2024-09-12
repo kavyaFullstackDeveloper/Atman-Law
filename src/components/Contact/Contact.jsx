@@ -54,8 +54,8 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Phone</h4>
-                  <span>876-369-9999</span>
-                  <span>213-519-8888</span>
+                  <span>+1(91)-7022937009</span>
+                  <span>+1(91)-0000000000</span>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -64,7 +64,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>26-21, kalyan nagar, Bangalore, <br />PIN-443322</span>
+                  <span>No. 602/A, Queens Corner, Queens Road<br />Bangalore - 560001 (Opposite Indian Express) </span>
                 </div>
               </div>
               <div className="st-social-info">

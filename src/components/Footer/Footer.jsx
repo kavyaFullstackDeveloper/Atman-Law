@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Designed for legalwebsite. All right reserved.</div>
+          <div className="st-copyright-text">© {currentYear}. Designed for Atman Law Partners. All right reserved.</div>
         </div>
       </div>
     </footer>

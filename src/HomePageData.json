@@ -14,28 +14,32 @@
     "text": "I am a highly experienced attorney specializing in corporate law, contract law, and legal consultancy. My goal is to provide tailored legal solutions to individuals and businesses, ensuring compliance and protecting their rights.",
     "details": [
       {
-        "title": "Foundation",
-        "info": " 1980"
+        "title": "Year Of Establishment",
+        "info": "2009"
       },
       {
         "title": "Phone",
-        "info": "+1 800-123-4567"
+        "info": "+1(91)-7022937009"
       },
       {
         "title": "Email",
         "info": "lawers.law@example.com"
       },
       {
-        "title": "From",
-        "info": "1234 Law Street, Legal City, LC 54321"
+        "title": "Address",
+        "info": "No. 602/A, Queens Corner, Queens Road, Bangalore - 560001 (Opposite Indian Express)"
       },
       {
         "title": "Language",
-        "info": "English, Spanish"
+        "info": "English, Hindi, Kannada, Telugu, Tamil"
       },
       {
         "title": "Availability",
-        "info": "Available for Consultation"
+        "info": "untill 8.30 pm"
+      },
+      {
+        "title": "Academic degree",
+        "info": "LLB"
       }
     ]
   },
@@ -43,7 +47,7 @@
     "services": [
       {
         "imgLink": "/images/icon/legal-advice.png",
-        "title": "Legal Consultancy",
+        "title": "Documentation",
         "text": "Providing expert advice on legal matters ranging from contracts to corporate policies.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -51,7 +55,7 @@
       },
       {
         "imgLink": "/images/icon/litigation.png",
-        "title": "Litigation",
+        "title": "Family Case",
         "text": "Representing clients in legal disputes with a focus on achieving favorable outcomes.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -59,7 +63,7 @@
       },
       {
         "imgLink": "/images/icon/contracts.png",
-        "title": "Contract Drafting",
+        "title": "Legal Advisor",
         "text": "Drafting and reviewing legal contracts to ensure compliance and protect your interests.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -67,7 +71,7 @@
       },
       {
         "imgLink": "/images/icon/immigration.png",
-        "title": "Immigration Law",
+        "title": "Cyber Lawer",
         "text": "Offering expert guidance on immigration processes and applications.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -75,7 +79,7 @@
       },
       {
         "imgLink": "/images/icon/intellectual-property.png",
-        "title": "Intellectual Property",
+        "title": "Criminal Lawyer",
         "text": "Protecting your intellectual property rights through expert legal services.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -83,7 +87,7 @@
       },
       {
         "imgLink": "/images/icon/tax-law.png",
-        "title": "Tax Law",
+        "title": "Real Estate Lawyer",
         "text": "Ensuring compliance with tax laws and offering strategies for tax optimization.",
         "effect": "zoom-out-up",
         "duration": "500",
@@ -128,177 +132,6 @@
   ,
     "portfolioData": {
       "portfolioItems": [
-        {
-          "imgLink": "/images/portfolio/portfolio1.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "200"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio2.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "300"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio3.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "400"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio4.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "500"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio5.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "600"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio6.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "700"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio1.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "200"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio2.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "300"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio3.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "400"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio4.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "500"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio5.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "600"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio6.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "700"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio1.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "200"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio2.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "300"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio3.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "400"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio4.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "500"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio5.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "600"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio6.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "700"
-        },
-        {
-          "imgLink": "/images/portfolio/portfolio1.jpg",
-          "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-          "title": "Product Design",
-          "subTitle": "Design / Marketing",
-          "effect": "fade-up",
-          "duration": "500",
-          "delay": "200"
-        },
         {
           "imgLink": "/images/portfolio/portfolio2.jpg",
           "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
@@ -364,45 +197,17 @@
       },
       "informations": [
         {
-          "imgLink": "/images/blog/blog1.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "latest trends in Graphic design according to you?",
-          "href": "/blog/blog-details"
-        },
-        {
           "imgLink": "/images/blog/blog2.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "What are the latest trends in Graphic design according to you?",
+          "designation": "Consumer Court",
+          "date": "",
+          "title": "",
           "href": "/blog/blog-details"
         },
         {
           "imgLink": "/images/blog/blog3.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "Trends in Graphic design according to you?",
-          "href": "/blog/blog-details"
-        },
-        {
-          "imgLink": "/images/blog/blog1.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "What are the latest trends in Graphic design according to you?",
-          "href": "/blog/blog-details"
-        },
-        {
-          "imgLink": "/images/blog/blog2.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "The latest trends in Graphic design according to you?",
-          "href": "/blog/blog-details"
-        },
-        {
-          "imgLink": "/images/blog/blog3.jpg",
-          "designation": "Admin",
-          "date": "07-03-2023",
-          "title": "What are the latest trends in Graphic design according to you?",
+          "designation": "High Court",
+          "date": "",
+          "title": "",
           "href": "/blog/blog-details"
         }
       ]
@@ -535,8 +340,8 @@
     },
     "socialData": [
       {
-        "icon": "dribbble",
-        "title": "Dribbble",
+        "icon": "facebook",
+        "title": "Facebook",
         "link": "/"
       },
       {
