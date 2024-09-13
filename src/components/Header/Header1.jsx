@@ -17,7 +17,7 @@ export const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to='/' id="hero"><img src="/src/assets/logo-law.png" alt="Legal Services" /></Link>
+              <Link className="st-site-branding" to='/' id="hero"><img src="/src/assets/loogolaw.png" alt="Atman Law" /></Link>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">
