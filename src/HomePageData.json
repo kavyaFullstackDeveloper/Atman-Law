@@ -1,13 +1,13 @@
 {
     "heroData": {
-      "bgImgLink": "https://ibb.co/qBPKSn4",
-      "imgLink": "https://ibb.co/qBWKTD6",
+      "bgImgLink": "src/assets/hero-bg.jpg",
+      "imgLink": "src/assets/woman.jpg",
       "title": "Atman <br /> Law",
       "subTitle": "Find your perfect legal care",
       "designation": "For Commercial Law"
     },
     "aboutData": {
-    "imgLink": "https://ibb.co/Q6dsz6f",
+    "imgLink": "src/assets/IndianFlag.jpg",
     "cvPdf": "",
     "title": "Hi There! we are dedicated lawers",
     "subtitle": "Attorney is at Law",
