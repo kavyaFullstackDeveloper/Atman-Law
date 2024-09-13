@@ -2,16 +2,16 @@
     "heroData": {
       "bgImgLink": "src/assets/hero-bg.jpg",
       "imgLink": "src/assets/woman.jpg",
-      "title": "Legal <br /> Solutions",
+      "title": "Atman <br /> Law",
       "subTitle": "Find your perfect legal care",
-      "designation": "Legal Services here"
+      "designation": "For Commercial Law"
     },
     "aboutData": {
     "imgLink": "src/assets/IndianFlag.jpg",
     "cvPdf": "",
     "title": "Hi There! we are dedicated lawers",
-    "subtitle": "Attorney at Law",
-    "text": "I am a highly experienced attorney specializing in corporate law, contract law, and legal consultancy. My goal is to provide tailored legal solutions to individuals and businesses, ensuring compliance and protecting their rights.",
+    "subtitle": "Attorney is at Law",
+    "text": "We are a highly experienced attorney commercial law, and legal consultancy. Our goal is to provide tailored legal solutions to individuals and businesses, ensuring compliance and protecting their rights.",
     "details": [
       {
         "title": "Year Of Establishment",
@@ -335,8 +335,8 @@
     "contactData": {
       "formTitle": "Just say Hello",
       "title": "Contact Info",
-      "subTitle": "Visite my social profile and get connected",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+      "subTitle": "Visit my social profile and get connected",
+      "text": "For any legal inquiries or to schedule a consultation, please contact us"
     },
     "socialData": [
       {
