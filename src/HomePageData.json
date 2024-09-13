@@ -1,13 +1,13 @@
 {
     "heroData": {
-      "bgImgLink": "src/assets/hero-bg.jpg",
-      "imgLink": "src/assets/woman.jpg",
+      "bgImgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726242405/hero-bg_mn6gqi.jpg",
+      "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726242499/woman_swzsc3.jpg",
       "title": "Atman <br /> Law",
       "subTitle": "Find your perfect legal care",
       "designation": "For Commercial Law"
     },
     "aboutData": {
-    "imgLink": "src/assets/IndianFlag.jpg",
+    "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726242547/IndianFlag_plexiz.jpg",
     "cvPdf": "",
     "title": "Hi There! we are dedicated lawers",
     "subtitle": "Attorney is at Law",
