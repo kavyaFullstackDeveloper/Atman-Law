@@ -17,7 +17,7 @@ export const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to='/' id="hero"><img src="src/assets/Atman-logo.png" alt="Atman Law" /></Link>
+              <Link className="st-site-branding" to='/' id="hero"><img src="https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726313720/Atman-logo_fpia1r.png" alt="Atman Law" /></Link>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">

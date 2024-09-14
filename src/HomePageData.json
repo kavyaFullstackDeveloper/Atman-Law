@@ -7,7 +7,7 @@
       "designation": "For Commercial Law"
     },
     "aboutData": {
-    "imgLink": "src/assets/about-us.jpg",
+    "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314009/about-us_tmqloy.jpg",
     "cvPdf": "",
     "title": "Hi There! we are dedicated lawers",
     "subtitle": "Attorney is at Law",
@@ -46,7 +46,7 @@
   "serviceData": {
     "services": [
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Documentation",
         "text": "Providing expert advice on legal matters ranging from contracts to corporate policies.",
         "effect": "zoom-out-up",
@@ -54,7 +54,7 @@
         "delay": "200"
       },
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Family Case",
         "text": "Representing clients in legal disputes with a focus on achieving favorable outcomes.",
         "effect": "zoom-out-up",
@@ -62,7 +62,7 @@
         "delay": "300"
       },
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Legal Advisor",
         "text": "Drafting and reviewing legal contracts to ensure compliance and protect your interests.",
         "effect": "zoom-out-up",
@@ -70,7 +70,7 @@
         "delay": "400"
       },
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Cyber Lawer",
         "text": "Offering expert guidance on immigration processes and applications.",
         "effect": "zoom-out-up",
@@ -78,7 +78,7 @@
         "delay": "500"
       },
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Criminal Lawyer",
         "text": "Protecting your intellectual property rights through expert legal services.",
         "effect": "zoom-out-up",
@@ -86,7 +86,7 @@
         "delay": "600"
       },
       {
-        "imgLink": "src/assets/practice.avif",
+        "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314180/practice_uvt5yq.avif",
         "title": "Real Estate Lawyer",
         "text": "Ensuring compliance with tax laws and offering strategies for tax optimization.",
         "effect": "zoom-out-up",
@@ -197,14 +197,14 @@
       },
       "informations": [
         {
-          "imgLink": "src/assets/practice1.jpeg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314319/practice1_ejhtlc.jpg",
           "designation": "Consumer Court",
           "date": "",
           "title": "",
           "href": "/blog/blog-details"
         },
         {
-          "imgLink": "src/assets/practice1.jpeg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314319/practice1_ejhtlc.jpg",
           "designation": "High Court",
           "date": "",
           "title": "",
@@ -239,25 +239,25 @@
       },
       "informations": [
         {
-          "imgLink": "src/assets/small.jpg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314458/small_qst77a.jpg",
           "title": "Atman",
           "designation": "Chairman",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "src/assets/small.jpg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314458/small_qst77a.jpg",
           "title": "Vesta S",
           "designation": "Executive Director",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "src/assets/small.jpg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314458/small_qst77a.jpg",
           "title": " Alves",
           "designation": "Managing Director",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "src/assets/small.jpg",
+          "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726314458/small_qst77a.jpg",
           "title": "Richard Miles",
           "designation": "Chairman",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
