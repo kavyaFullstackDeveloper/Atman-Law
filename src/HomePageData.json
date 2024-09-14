@@ -7,7 +7,7 @@
       "designation": "For Commercial Law"
     },
     "aboutData": {
-    "imgLink": "https://res.cloudinary.com/dgtsyf1vu/image/upload/v1726242547/IndianFlag_plexiz.jpg",
+    "imgLink": "src/assets/about-us.jpg",
     "cvPdf": "",
     "title": "Hi There! we are dedicated lawers",
     "subtitle": "Attorney is at Law",
@@ -27,7 +27,7 @@
       },
       {
         "title": "Address",
-        "info": "No. 602/A, Queens Corner, Queens Road, Bangalore - 560001 (Opposite Indian Express)"
+        "info": "No. 602/A, QueensCorner, QueensRoad, Bangalore - 560001 (Opposite Indian Express)"
       },
       {
         "title": "Language",
@@ -46,7 +46,7 @@
   "serviceData": {
     "services": [
       {
-        "imgLink": "/images/icon/legal-advice.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Documentation",
         "text": "Providing expert advice on legal matters ranging from contracts to corporate policies.",
         "effect": "zoom-out-up",
@@ -54,7 +54,7 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/icon/litigation.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Family Case",
         "text": "Representing clients in legal disputes with a focus on achieving favorable outcomes.",
         "effect": "zoom-out-up",
@@ -62,7 +62,7 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/icon/contracts.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Legal Advisor",
         "text": "Drafting and reviewing legal contracts to ensure compliance and protect your interests.",
         "effect": "zoom-out-up",
@@ -70,7 +70,7 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/icon/immigration.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Cyber Lawer",
         "text": "Offering expert guidance on immigration processes and applications.",
         "effect": "zoom-out-up",
@@ -78,7 +78,7 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/icon/intellectual-property.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Criminal Lawyer",
         "text": "Protecting your intellectual property rights through expert legal services.",
         "effect": "zoom-out-up",
@@ -86,7 +86,7 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/icon/tax-law.png",
+        "imgLink": "src/assets/practice.avif",
         "title": "Real Estate Lawyer",
         "text": "Ensuring compliance with tax laws and offering strategies for tax optimization.",
         "effect": "zoom-out-up",
@@ -197,14 +197,14 @@
       },
       "informations": [
         {
-          "imgLink": "/images/blog/blog2.jpg",
+          "imgLink": "src/assets/practice1.jpeg",
           "designation": "Consumer Court",
           "date": "",
           "title": "",
           "href": "/blog/blog-details"
         },
         {
-          "imgLink": "/images/blog/blog3.jpg",
+          "imgLink": "src/assets/practice1.jpeg",
           "designation": "High Court",
           "date": "",
           "title": "",
@@ -239,25 +239,25 @@
       },
       "informations": [
         {
-          "imgLink": "/images/client/client1.png",
-          "title": "Richard Miles",
+          "imgLink": "src/assets/small.jpg",
+          "title": "Atman",
           "designation": "Chairman",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "/images/client/client2.png",
-          "title": "Vesta Shufelt",
+          "imgLink": "src/assets/small.jpg",
+          "title": "Vesta S",
           "designation": "Executive Director",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "/images/client/client3.png",
-          "title": "Joseph Alves",
+          "imgLink": "src/assets/small.jpg",
+          "title": " Alves",
           "designation": "Managing Director",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
         },
         {
-          "imgLink": "/images/client/client1.png",
+          "imgLink": "src/assets/small.jpg",
           "title": "Richard Miles",
           "designation": "Chairman",
           "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"

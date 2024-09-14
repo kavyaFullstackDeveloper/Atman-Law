@@ -7,7 +7,7 @@ const SingleReview = ({element}) => {
     <div className={`st-testimonial st-style1 `} data--duration="0.8s" data--delay="0.2s">
       <div className="st-testimonial-text">
         <p>{text}</p>
-        <div className="st-quote"><img src="/images/icon/quote.png" alt="quote" /></div>
+        <div className="st-quote">{/* <img src="src/assets/practice.avif" alt="" /> */}</div>
       </div>
       <div className="st-testimonial-info">
         <div className="st-testimonial-img"><img src={imgLink} alt="client1" /></div>
