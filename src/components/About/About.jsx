@@ -26,12 +26,14 @@ const About = ({ data }) => {
                     <p>{text}</p>
                   </div>
                   <ul className="st-text-block-details st-mp0">
-                    {details.map((item, index) => (
-                      <li key={index}>
-                        <span>{item.title}</span> : <span>{item.info}</span>
-                      </li>
-                    ))}
-                  </ul>
+  {details.map((item, index) => (
+    <li key={index} className="detail-item">
+      <span className="detail-title">{item.title}</span>
+      <span className="detail-separator">:</span>
+      <span className="detail-info">{item.info}</span>
+    </li>
+  ))}
+</ul>
                   {/* <div className="st-text-block-btn">
                     <a className='st-btn st-style1 st-color1' href={cvPdf} download>Download Brochure</a>
                   </div> */}

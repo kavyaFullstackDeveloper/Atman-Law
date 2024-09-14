@@ -56,3 +56,32 @@
     padding-right: 0px;
   }
 }
+
+.st-text-block-details {
+  list-style: none; /* Removes bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.detail-item {
+  display: flex; /* Flexbox for horizontal alignment */
+  justify-content: flex-start; /* Align elements to the left */
+  align-items: center; /* Vertically centers the elements */
+  margin-bottom: 10px; /* Space between each list item */
+  padding: 5px 0;
+  border-bottom: 1px solid #e0e0e0; /* Optional: line between items */
+}
+
+.detail-title {
+  font-weight: bold; /* Make the title bold */
+  margin-right: 10px; /* Adds space between title and colon */
+}
+
+.detail-separator {
+  margin-right: 10px; /* Adds space between colon and info */
+}
+
+.detail-info {
+  flex-grow: 0; /* Pushes info to the right if necessary */
+  text-align: right; /* Ensures the info text aligns to the right */
+}
